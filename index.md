@@ -2,20 +2,9 @@
 layout: default
 ---
 
-{% include 01-name.md %}
-
-<br>
-
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
-
-<br>
-
-{% include 04-lists.md %}
-
-<br>
-
-{% include 05-emphasis.md %}
+* First
+* Second
+* Third
+1. 1
+2. 2
+3. 3
